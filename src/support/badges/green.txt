@@ -1,0 +1,20 @@
+Tier Card Discription
+
+### Green Status Tier
+
+<ul>
+<li>Get a "noticeable" Green Sponsor badge on your profile. </li>
+<li>Join my community chat space. </li>
+<li>Have your bug reports on Lv1 ( of 3 ) Priority( GREEN Alert ).</li>
+<li>If project has "ACTIVE" status, can make Lv1 (  of 3 )  Same-Day-Appointments. </li>
+</ul>
+
+EMAIL
+<h1>Thank you for partnering with BorDevTech(BDT)</h1>
+<h3> You are now holding a  "Noticeable" Green Clearance Badge</h3>
+<h4> Don't forget!</h4>
+<li>You have the ability to join our <a href="https://discord.gg/SY8pW8P4x7">Community Space</a> and receive a Green Badge of Clearance</li>
+<li> Streamline Bug Reports(BR), Error Reports(ER), with Lv1 Priority. </li>
+<li> Assign and Fill empty slots for Same-Day-Appointments(SDA) up to and within lv1.</li>
+<br>
+All Guidelines, Rules and Examples of "Appointment Scheduling" will be discussed; along with verification of "Bug Report Tickets"; within in our <a href="https://discord.gg/SY8pW8P4x7">Community Space</a> or over video/phone conference sessions.

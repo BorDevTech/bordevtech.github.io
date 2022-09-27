@@ -1,0 +1,23 @@
+.Footer {
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+
+.FooterBox {
+    display: flex;
+    flex-direction: row;
+}
+
+.FlexTicks {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+iframe.github {
+    border: 0px;
+    border-radius: 8px;
+    height: 30px;
+    width: 116px;
+}

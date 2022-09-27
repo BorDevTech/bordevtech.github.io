@@ -1,0 +1,133 @@
+/*CUSTOM COLORS*/
+:root {
+    /*--Colors--*/
+    --base-color: #161618;
+    --base2-color: #1C1C1E;
+    --trim-color: #000000;
+    --primary-color: #212124;
+    --secondary-color: #818181;
+    --test-color: rgb(2, 211, 248);
+    --error-color: ;
+    --pass-color: ;
+    --clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+    /*--Sizes--*/
+    --full-height: 100vh;
+    --full-width: 100vw;
+}
+
+/*
+.NavbarBlock {
+    background-color: yellow
+}
+
+.navBaseSkeleton {
+    background-color: yellow
+}
+
+.Nav {
+    background-color: yellow
+}
+
+.Navbar {
+    background-color: yellow
+}
+
+.navbarList {
+    background-color: yellow
+}
+
+.navbarSection1 {
+    background-color: yellow
+}
+
+.navbarItem {
+    background-color: yellow
+}
+
+.navLink {
+    background-color: yellow
+}
+
+.navbarSection2 {
+    background-color: yellow
+}
+
+.navbarSection2List {
+    background-color: yellow
+}
+
+.navbarSection2ListItem {
+    background-color: yellow
+}
+
+.navLink {
+    background-color: yellow
+}
+
+.GetStarted {
+    background-color: yellow
+}
+
+.Welcome {
+    background-color: yellow
+}
+
+.loader {
+    background-color: yellow
+}
+
+*/
+.NavbarBlock {
+    margin: 0;
+    padding: 0;
+    color: black;
+}
+
+.navBaseSkeleton {}
+
+.Nav {}
+
+.Navbar {}
+
+.navbarList {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navbarSection1 {
+    color: black;
+}
+
+.navbarSection2 {
+    color: black;
+}
+
+.navbarSection2List {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.navbarSection2ListItem {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.navLink {
+    text-decoration: none;
+}
+
+/*Navbar Buttons*/
+.GetStarted {
+    border-style: groove;
+    height: 40px;
+    background-color: red;
+    border-radius: 8px;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+}

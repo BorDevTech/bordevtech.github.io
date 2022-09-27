@@ -1,0 +1,38 @@
+/*CUSTOM COLORS*/
+:root {
+    /*--Colors--*/
+    --base-color: #161618;
+    --base2-color: #1C1C1E;
+    --trim-color: #000000;
+    --primary-color: #212124;
+    --secondary-color: #818181;
+    --test-color: rgb(2, 211, 248);
+    --error-color: ;
+    --pass-color: ;
+    --clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+    /*--Sizes--*/
+    --full-height: 100vh;
+    --full-width: 100vw;
+}
+
+
+.HomePage {
+    width: var(--full-width);
+    height: var(--full-height);
+    background-color: var(--base2-color);
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+.Navbar {
+    background-color: var(--base2-color);
+}
+
+.MainSection {
+    background-color: var(--base2-color);
+}
+
+.Footer {
+    background-color: var(--base2-color);
+}

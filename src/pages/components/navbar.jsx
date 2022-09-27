@@ -1,8 +1,8 @@
-function App() {
+function navbar() {
     return (
-        <div className="App">
+        <div className="navbar">
         </div >
     );
 }
 
-export default App;
+export default navbar;
